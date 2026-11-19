@@ -1,0 +1,15 @@
+My Portfolio/
+│
+├── index.html
+├── projects.html
+├── achievements.html
+├── career.html
+├── contact.html
+├── style.css
+│
+└── documents/
+    ├── Sayyeda_Yashal_Waqar_CV_2026.pdf
+    ├── Cover_Letter_Yashal_Waqar.pdf.pdf
+    ├── transcripts.pdf
+    ├── cnic.pdf
+    └── other documents...
